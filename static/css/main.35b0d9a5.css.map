@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.35b0d9a5.css","mappings":"AAAA,EACE,UACF,CAEA,mBACI,WAAY,CACZ,UACJ","sources":["index.css"],"sourcesContent":["* {\r\n  width: 100%;\r\n}\r\n\r\n.heroes-loginImage{\r\n    height: 100%;\r\n    width: 100%;\r\n}"],"names":[],"sourceRoot":""}

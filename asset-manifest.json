@@ -1,6 +1,7 @@
 {
   "files": {
-    "main.js": "/REACT-HeroesApp/static/js/main.548d0e13.js",
+    "main.css": "/REACT-HeroesApp/static/css/main.35b0d9a5.css",
+    "main.js": "/REACT-HeroesApp/static/js/main.4fba4fe5.js",
     "static/media/dc-wonder.jpg": "/REACT-HeroesApp/static/media/dc-wonder.970ba2d62a4636ff6afb.jpg",
     "static/media/dc-flash.jpg": "/REACT-HeroesApp/static/media/dc-flash.b3922f25f3765970d74c.jpg",
     "static/media/dc-martian.jpg": "/REACT-HeroesApp/static/media/dc-martian.78565f7df6238ef8a601.jpg",
@@ -21,10 +22,13 @@
     "static/media/marvel-cyclops.jpg": "/REACT-HeroesApp/static/media/marvel-cyclops.f144240854b9dec1b9af.jpg",
     "static/media/marvel-hawkeye.jpg": "/REACT-HeroesApp/static/media/marvel-hawkeye.1f78e874c315b926c463.jpg",
     "static/media/dc-robin.jpg": "/REACT-HeroesApp/static/media/dc-robin.ea4afe99ecbc5480b0e3.jpg",
+    "static/media/heroes.png": "/REACT-HeroesApp/static/media/heroes.a998e12d0f0998da6770.png",
     "index.html": "/REACT-HeroesApp/index.html",
-    "main.548d0e13.js.map": "/REACT-HeroesApp/static/js/main.548d0e13.js.map"
+    "main.35b0d9a5.css.map": "/REACT-HeroesApp/static/css/main.35b0d9a5.css.map",
+    "main.4fba4fe5.js.map": "/REACT-HeroesApp/static/js/main.4fba4fe5.js.map"
   },
   "entrypoints": [
-    "static/js/main.548d0e13.js"
+    "static/css/main.35b0d9a5.css",
+    "static/js/main.4fba4fe5.js"
   ]
 }
