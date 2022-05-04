@@ -8,7 +8,6 @@ export const Navbar = () => {
   const navigate = useNavigate();
 
   const handleLogout = () => {
-    console.log("logout");
     const lastPath = localStorage.getItem('lastPath') || '/marvel';
     dispatch({
       type: types.logout,

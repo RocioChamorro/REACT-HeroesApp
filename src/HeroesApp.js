@@ -12,7 +12,6 @@ const HeroesApp = () => {
   const [user, dispatch] = useReducer(authReduce, {}, init);
 
   useEffect(() => {
-    console.log('user: '+JSON.stringify( user))
     if ( !user ) return;
     localStorage.setItem('user', JSON.stringify(user));
   }, [ user ])
